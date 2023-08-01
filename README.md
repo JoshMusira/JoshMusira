@@ -1,4 +1,5 @@
-✨ Welcome to Joshua Musira's GitHub World! 👋
+✨ Welcome to Joshua Musira's GitHub World! 👋<br>
+
 Hey there! I'm Joshua Musira, a skilled full-stack software engineer with a deep passion for crafting elegant, robust, and scalable applications. My focus is on creating user-friendly and intuitive interfaces that elevate the overall user experience.
 
 ### 💻 SKILL SET:
