@@ -3,7 +3,7 @@
 Hey there! I'm Joshua Musira, a skilled full-stack software engineer with a deep passion for crafting elegant, robust, and scalable applications. My focus is on creating user-friendly and intuitive interfaces that elevate the overall user experience.
 
 ### 💻 SKILL SET:
-`HTML5`, `CSS3`, `Tailwind CSS`, `Javascript`, `Typescript`,`Java`, `React`, `NodeJs`, `Python`, `MsSQL`, `MySQL`.
+`HTML5`, `CSS3`, `Tailwind CSS`, `Bootstrap5` , `Javascript`, `Typescript`,`Java`, `React`, `NodeJs`, `Python`, `MsSQL`, `MySQL`.
 
 ### 📊 GITHUB STATS:
 <center>
