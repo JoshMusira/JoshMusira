@@ -3,7 +3,7 @@
 ### 📊 GITHUB STATS:
   <table>
   <tr>
-     
+     <td><img  align="left" src="https://github-readme-stats.vercel.app/api?username=JoshMusira&count_private=true&show_icons=true&theme=gotham&layout=compact" /></td>
       <td><img  src="https://github-readme-streak-stats.herokuapp.com/?user=JoshMusira&theme=dark" /></td>    
      
   </tr>   
