@@ -3,7 +3,7 @@
 ### 📊 GITHUB STATS:
   <table>
   <tr>
-<td><img  align="left" src="https://images.unsplash.com/photo-1654277041218-84424c78f0ae?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGdpdGh1YnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60" /></td>
+<td><img  align="left" src="https://github-readme-stats.vercel.app/api?username=JoshMusira&count_private=true&show_icons=true&theme=gotham&layout=compact&custom_icon=https://images.unsplash.com/photo-1654277041218-84424c78f0ae?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGdpdGh1YnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60" /></td>
       <td><img  src="https://github-readme-streak-stats.herokuapp.com/?user=JoshMusira&theme=dark" /></td>    
      
   </tr>   
