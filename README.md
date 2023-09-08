@@ -1,13 +1,14 @@
 ✨ Welcome to Joshua Musira's GitHub World! 👋<br>
 
 ### 📊 GITHUB STATS:
-<center>
   <table>
   <tr>
       <td><img  align="left" src="https://github-readme-stats.vercel.app/api?username=JoshMusira&count_private=true&show_icons=true&theme=dark&layout=compact" /></td>
       <td><img  src="https://github-readme-streak-stats.herokuapp.com/?user=JoshMusira&theme=dark" /></td>    
      
   </tr>   
+<center>
+
 📋 Languages <br/>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
