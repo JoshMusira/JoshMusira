@@ -31,6 +31,8 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-%231D428A.svg?style=for-the-badge&logo=stripe&logoColor=white)
+
 
 - 🎈 Hosting <br/>
 ![AzureDevOps](https://camo.githubusercontent.com/0e86f1762fab93430da0825c20352b3cb424a65f9daa1a6073e3022a94c6dbef/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4d6963726f736f66742b417a75726526636f6c6f723d303037384434266c6f676f3d4d6963726f736f66742b417a757265266c6f676f436f6c6f723d464646464646266c6162656c3d)
