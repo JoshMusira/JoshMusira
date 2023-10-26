@@ -32,6 +32,11 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-%231D428A.svg?style=for-the-badge&logo=stripe&logoColor=white)
+![Daraja API](https://img.shields.io/badge/Daraja%20API-%23000000.svg?style=for-the-badge)
+![Upstash Redis](https://img.shields.io/badge/Upstash%20Redis-%238536D1.svg?style=for-the-badge)
+![Prisma](https://img.shields.io/badge/Prisma-%230E6C97.svg?style=for-the-badge)
+![NEXT.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge)
+
 
 
 - 🎈 Hosting <br/>
