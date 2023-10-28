@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-baddge&logo=microsoft%20sql%20server&logoColor=white" alt="MongoDB"/>
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Upstash Redis](https://img.shields.io/badge/Upstash%20Redis-%238536D1.svg?style=for-the-badge)
+![Redis](https://img.shields.io/badge/Upstash%20Redis-%238536D1.svg?style=for-the-badge)
 - 🎨 Design  <br/>
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
