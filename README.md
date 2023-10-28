@@ -33,7 +33,6 @@
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-%231D428A.svg?style=for-the-badge&logo=stripe&logoColor=white)
 ![Daraja API](https://img.shields.io/badge/Daraja%20API-%23000000.svg?style=for-the-badge)
-![Upstash Redis](https://img.shields.io/badge/Upstash%20Redis-%238536D1.svg?style=for-the-badge)
 ![Prisma](https://img.shields.io/badge/Prisma-%230E6C97.svg?style=for-the-badge)
 ![NEXT.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge)
 
@@ -51,6 +50,7 @@
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-baddge&logo=microsoft%20sql%20server&logoColor=white" alt="MongoDB"/>
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Upstash Redis](https://img.shields.io/badge/Upstash%20Redis-%238536D1.svg?style=for-the-badge)
 - 🎨 Design  <br/>
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
