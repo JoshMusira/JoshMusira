@@ -39,7 +39,7 @@
 
 
 - 🎈 Hosting <br/>
-![AzureDevOps](https://camo.githubusercontent.com/0e86f1762fab93430da0825c20352b3cb424a65f9daa1a6073e3022a94c6dbef/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4d6963726f736f66742b417a75726526636f6c6f723d303037384434266c6f676f3d4d6963726f736f66742b417a757265266c6f676f436f6c6f723d464646464646266c6162656c3d)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
