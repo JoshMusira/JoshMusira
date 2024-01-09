@@ -33,7 +33,15 @@
 ![Daraja API](https://img.shields.io/badge/Daraja%20API-%23000000.svg?style=for-the-badge)
 ![Prisma](https://img.shields.io/badge/Prisma-%230E6C97.svg?style=for-the-badge)
 ![NEXT.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge)
-
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4EAEFF?style=for-the-badge&logo=seaborn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-007ACC?style=for-the-badge&logo=plotly&logoColor=white)
+![Cufflinks](https://img.shields.io/badge/Cufflinks-36E08B?style=for-the-badge&logo=cufflinks&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 
 
