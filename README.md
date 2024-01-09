@@ -26,15 +26,15 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-%231D428A.svg?style=for-the-badge&logo=stripe&logoColor=white)
 ![Daraja API](https://img.shields.io/badge/Daraja%20API-%23000000.svg?style=for-the-badge)
 ![Prisma](https://img.shields.io/badge/Prisma-%230E6C97.svg?style=for-the-badge)
 ![NEXT.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge)
+
+
 
 
 
