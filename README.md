@@ -1,5 +1,5 @@
 <h1>✨ Welcome to Joshua Musira's GitHub World! 👋</h1>
-<img align='right' src="https://i.ibb.co/5x52S7h/Coffee-bitmoji.png" width="600" height="600">
+<img align='right' src="https://i.ibb.co/5x52S7h/Coffee-bitmoji.png" width="500" height="600">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=S-ayanide" alt="Joshua" /></p>
 
