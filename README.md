@@ -17,3 +17,10 @@
 [![Twitter Badge](https://img.shields.io/badge/-@_s__ayanide-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/s_ayanide)](https://twitter.com/s_ayanide)
 [![Instagram Badge](https://img.shields.io/badge/-@s__ayanide-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/s_ayanide/)](https://www.instagram.com/s_ayanide/)
 [![Gmail Badge](https://img.shields.io/badge/-sayanmondal342@gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sayanmondal342@gmail.com)](mailto:sayanmondal342@gmail.com)
+
+<table>
+     <td>
+        <a href="https://circleci.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/circleci/circleci-plain.svg" alt="Circle CI" width="50" height="50"/></a>
+        <a href="https://github.com/features/actions" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Github actions" width="50" height="50"/> </a>
+    </td>
+</table>
